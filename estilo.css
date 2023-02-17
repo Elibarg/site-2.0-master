@@ -60,7 +60,7 @@
             0%   { top: 125px   }
             50%  { top: 200px; }
             100% { top: 120px;  } 
-            
+
 
         } 
 
@@ -113,6 +113,7 @@
     width: 90%; 
     line-height: 100px;
     top: 535px;
+   
   }
 
   table, th, td {
